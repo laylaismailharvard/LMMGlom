@@ -1,1 +1,1 @@
-# LMMGlom
+This project contains many files, looking at different genes of interest, those of which showed significant change (GOI), and genes that did not express significant change (NGOI). These genes were analyzed in multiple facets, looking at change over time (Timepoint Analysis) and over different treatments. I used GO Enrichment, Linear Mixed Models, and Differential Gene Expression across all files. In the NGOI Timepoint analysis file, I put a special focus on pathway analysis and integrated different gene pathway APIs to plot different pathway expressions overtime. 
